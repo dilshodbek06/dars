@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <div>
-      <h1>Hello from frontend branch</h1>
+      <h1>Hello from frontend branch </h1>
     </div>
   );
 };
